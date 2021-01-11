@@ -42,6 +42,13 @@ Installation
 None. Just run "./miniircd --help" (or "python miniircd --help") to get some
 help.
 
+
+Docker
+------
+
+`docker run -p 6667:6667 daxxog/miniircd`
+
+
 Using --chroot and --setuid
 ---------------------------
 
